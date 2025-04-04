@@ -1,5 +1,5 @@
 # 📌 AdvancedTesla
-A plugin that activates tesles only for selected roles.
+A plug-in for the SCP:SL game that activates tessellations only for selected roles.
 
 # 🛠️ Requirements
 EXILED >= 9.5.1
