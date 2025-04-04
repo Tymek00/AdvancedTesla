@@ -1,4 +1,4 @@
-# 📌 TeslaAdvanced
+# 📌 AdvancedTesla
 A plugin that activates tesles only for selected roles.
 
 # 🛠️ Requirements
